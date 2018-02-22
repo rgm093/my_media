@@ -1,3 +1,3 @@
 # index
 
-[Iron Maiden](my_media/iron_maiden.md)
+[Iron Maiden](my_media/iron_maiden)
